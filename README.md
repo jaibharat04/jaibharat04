@@ -8,6 +8,8 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Tailwind, React.js, React Router...**
 
 - 📫 How to reach me **https://www.linkedin.com/in/jaibharat04/**
+- 
+- 😊 Pronouns - **He/Him**
 
 - ⚡ Fun fact **"Whitespace" is shortest programming language.**
 
