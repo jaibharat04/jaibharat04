@@ -6,7 +6,7 @@
 A Software Developer based in India 🇮🇳. I am a tech enthusiast. I am always ready to have new experiences and learn new things. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaibharat04/)](https://www.linkedin.com/in/jaibharat04/)
-[![Gmail Badge](https://img.shields.io/badge/-jai.rawat.jb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shekharsharma7206@gmail.com)](mailto:jai.rawat.jb@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jai.rawat.jb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jai.rawat.jb@gmail.com)](mailto:jai.rawat.jb@gmail.com)
 <p align="left"> <a href="https://twitter.com/xuserjb" target="blank"><img src="https://img.shields.io/twitter/follow/xuserjb?logo=twitter&style=for-the-badge" alt="xuserjb" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaibharat04](https://github.com/jaibharat04)
@@ -18,6 +18,8 @@ A Software Developer based in India 🇮🇳. I am a tech enthusiast. I am alway
 - 😊 Pronouns - **He/Him**
 
 - ⚡ Fun fact **"Whitespace" is shortest programming language.**
+
+###[Resume](https://drive.google.com/file/d/1gNEZqWfHKqLoNoVxo5sv16igO3kfZzIc/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
