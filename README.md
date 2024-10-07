@@ -19,7 +19,7 @@ A Software Developer based in India 🇮🇳. I am a tech enthusiast. I am alway
 
 - ⚡ Fun fact **"Whitespace" is shortest programming language.**
 
-### [Resume](https://drive.google.com/file/d/1FSmpsu-q7sHXaz8m1i3YBC4U4VtVpBta/view?usp=sharing)
+### [Resume](https://drive.google.com/file/d/1DbwWYhIhPhJS8-ArBsDeQV_eRUdyscVA/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
