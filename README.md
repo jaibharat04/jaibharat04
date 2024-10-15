@@ -11,7 +11,7 @@ A Software Developer based in India 🇮🇳. I am a tech enthusiast. I am alway
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaibharat04](https://github.com/jaibharat04)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Tailwind, React.js, Redux Toolkit, React Router...**
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Tailwind, React.js, Redux Toolkit, React Router....**
 
 - 📫 How to reach me **https://www.linkedin.com/in/jaibharat04/**
   
