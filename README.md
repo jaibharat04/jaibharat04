@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+JAI+BHARAT...;Nice+to+meet+you!&center=true&size=30">
-  </a>
+  </a> 
 </h1>
 A Software Developer based in India 🇮🇳. I am a tech enthusiast. I am always ready to have new experiences and learn new things. Find out more about me & feel free to connect with me here:
 
